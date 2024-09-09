@@ -1,10 +1,7 @@
 # ProRey Online
 
+![Logo](proreyLogo-lrg.png)
 by [ProRey Tech](https://prorey.com)
-
-**ProRey Online** Application for Image and Video tagging and comparison. Select Image and Video files from Local, Network or Google Drive, tag and compare them to each other.
-
-![Logo](proreyLogo-lrg.png) **PROREY TECH**
 
 ![ProRey Online](prorey-online.png)
 
