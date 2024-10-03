@@ -52,13 +52,13 @@ ProRey Online is developed with modern serverless cloud **NAVEN** stack. New fea
 
 ## User Interface
 
-### _ProRey Tech_
+### ProRey Tech
 
  [prorey.com](https://prorey.com)
 
  **Bootstrap UI Webpage** hosted on **AWS CloudFront/S3**
 
-### _ProRey Online_
+### ProRey Online
 
  [prorey.online](https://prorey.online)
 
